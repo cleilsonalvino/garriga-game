@@ -1,0 +1,6 @@
+{
+  "name": "Povoado Barriga: A Jornada de Cleilson",
+  "description": "RPG narrativo de mundo aberto em 2D onde você acompanha Cleilson desde sua chegada de carroça da roça até a vida adulta em Povoado Barriga, explorando a praça, a escola, o campo de futebol e a torre de rádio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
